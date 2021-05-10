@@ -12,4 +12,3 @@ create user 'usuario' identified by '123';
 GRANT USAGE ON empresa.* TO 'usuario'@'%';
 grant all privileges on empresa.* to 'usuario'@'%';
 
-select * from usuarios;
