@@ -1,4 +1,4 @@
 
-proyecto realizado con HTML, algo de css, Java y JSP
-proyecto web muy básico que lo que realiza es simplemente
-registrar usuarios y loguear
+comprobar si un usuario existe en la base de datos, nos 
+permite también registrar un nuevo usuario en la base de 
+datos
